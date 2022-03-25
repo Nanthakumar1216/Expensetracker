@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Expense Splitter - Register User</title>
+    <title>Expense Splitter - Register Users Da</title>
     <link href="css/main.css" rel="stylesheet">
 </head>
 <body>
